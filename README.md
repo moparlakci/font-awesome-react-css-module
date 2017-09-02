@@ -3,7 +3,7 @@ A simple React Component for Font Awesome using CSS Modules
 
 # Requirements 
 
-    FontAwesome +4.7 from NPM
+  FontAwesome +4.7 from NPM
     
     npm install --save font-awesome
     
@@ -11,7 +11,8 @@ A simple React Component for Font Awesome using CSS Modules
 
 # Usage
 
-    import Fa from '/where_you_copied_the_fa_component/Fa'
+    
+    import Fa from '/where_you_copied_the_fa_component/Fa'
 
     <Fa name="fa-users" fixed={true} />
     <Fa name="fa-users" fixed={false} />
