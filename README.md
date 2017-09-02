@@ -7,10 +7,11 @@ A simple React Component for Font Awesome using CSS Modules
     
     npm install --save font-awesome
     
-
 # Import in your current Component
     
     import Fa from '/where_you_copied_the_fa_component/Fa'
+    
+  You might want to change the node_modules path to font-awesome in Fa.js file
 
 
 # Usage 
